@@ -1,0 +1,30 @@
+C:\Users\mostf\Desktop\Project 1\bin\Debug\ConsoleApplication.exe
+C:\Users\mostf\Desktop\Project 1\bin\Debug\ConsoleApplication.pdb
+C:\Users\mostf\Desktop\Project 1\bin\Debug\mscorlib.dll
+C:\Users\mostf\Desktop\Project 1\bin\Debug\ar\mscorlib.resources.dll
+C:\Users\mostf\Desktop\Project 1\bin\Debug\he\mscorlib.resources.dll
+C:\Users\mostf\Desktop\Project 1\bin\Debug\normidna.nlp
+C:\Users\mostf\Desktop\Project 1\bin\Debug\normnfc.nlp
+C:\Users\mostf\Desktop\Project 1\bin\Debug\normnfd.nlp
+C:\Users\mostf\Desktop\Project 1\bin\Debug\normnfkc.nlp
+C:\Users\mostf\Desktop\Project 1\bin\Debug\normnfkd.nlp
+C:\Users\mostf\Desktop\Project 1\obj\x86\Debug\Project 1.csproj.AssemblyReference.cache
+C:\Users\mostf\Desktop\Project 1\obj\x86\Debug\Project 1.csproj.CoreCompileInputs.cache
+C:\Users\mostf\Desktop\Project 1\obj\x86\Debug\Project 1.csproj.CopyComplete
+C:\Users\mostf\Desktop\Project 1\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\mostf\Desktop\Project 1\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\mostf\Desktop\Project 1 - Mustafa,Hani\obj\x86\Debug\Project 1.csproj.AssemblyReference.cache
+C:\Users\mostf\Desktop\Project 1 - Mustafa,Hani\obj\x86\Debug\Project 1.csproj.CoreCompileInputs.cache
+C:\Users\mostf\Desktop\Project 1 - Mustafa,Hani\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\mostf\Desktop\Project 1 - Mustafa,Hani\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\mostf\Desktop\Project 1 - Mustafa,Hani\bin\Debug\ConsoleApplication.exe
+C:\Users\mostf\Desktop\Project 1 - Mustafa,Hani\bin\Debug\ConsoleApplication.pdb
+C:\Users\mostf\Desktop\Project 1 - Mustafa,Hani\bin\Debug\mscorlib.dll
+C:\Users\mostf\Desktop\Project 1 - Mustafa,Hani\bin\Debug\ar\mscorlib.resources.dll
+C:\Users\mostf\Desktop\Project 1 - Mustafa,Hani\bin\Debug\he\mscorlib.resources.dll
+C:\Users\mostf\Desktop\Project 1 - Mustafa,Hani\bin\Debug\normidna.nlp
+C:\Users\mostf\Desktop\Project 1 - Mustafa,Hani\bin\Debug\normnfc.nlp
+C:\Users\mostf\Desktop\Project 1 - Mustafa,Hani\bin\Debug\normnfd.nlp
+C:\Users\mostf\Desktop\Project 1 - Mustafa,Hani\bin\Debug\normnfkc.nlp
+C:\Users\mostf\Desktop\Project 1 - Mustafa,Hani\bin\Debug\normnfkd.nlp
+C:\Users\mostf\Desktop\Project 1 - Mustafa,Hani\obj\x86\Debug\Project 1.csproj.CopyComplete
